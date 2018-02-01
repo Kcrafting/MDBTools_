@@ -1,0 +1,16 @@
+﻿  Moc'ing MDBTools.h...
+  Uic'ing MDBTools.ui...
+  Rcc'ing MDBTools.qrc...
+  moc_MDBTools.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MDBClass.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MDBCombine.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MDBTools.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  正在生成代码...
+  qrc_MDBTools.cpp
+  MDBTools.vcxproj -> D:\XG4\VS2017 CODE _\MDBTools - 副本\MDBTools - 副本\MDBTools\x64\Debug\MDBTools.exe
